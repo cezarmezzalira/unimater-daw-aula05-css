@@ -24,3 +24,10 @@ nav {
 nav>ul>li {
   list-style: none;
 }
+
+.content {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+
+}
